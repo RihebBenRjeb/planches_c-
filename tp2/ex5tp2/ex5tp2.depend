@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735330238 source:d:\riheb\2eme année\tp c++\tp2\ex5tp2\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+
