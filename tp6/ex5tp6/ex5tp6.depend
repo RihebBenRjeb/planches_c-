@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1735589506 source:d:\riheb\2eme année\tp c++\tp6\ex5tp6\src\personne.cpp
+	"Personne.h"
+	<iostream>
+
+1735591643 d:\riheb\2eme année\tp c++\tp6\ex5tp6\include\personne.h
+	<iostream>
+
+1735592189 source:d:\riheb\2eme année\tp c++\tp6\ex5tp6\src\etudiant.cpp
+	"Etudiant.h"
+	"Personne.h"
+	<iostream>
+
+1735590943 d:\riheb\2eme année\tp c++\tp6\ex5tp6\include\etudiant.h
+	"Personne.h"
+	<iostream>
+
+1735592568 source:d:\riheb\2eme année\tp c++\tp6\ex5tp6\src\enseignant.cpp
+	"Enseignant.h"
+	"Personne.h"
+	<iostream>
+
+1735591750 d:\riheb\2eme année\tp c++\tp6\ex5tp6\include\enseignant.h
+	"Personne.h"
+	<iostream>
+
+1735592439 source:d:\riheb\2eme année\tp c++\tp6\ex5tp6\main.cpp
+	<iostream>
+	"Contractuel.h"
+	"Personne.h"
+	"Enseignant.h"
+	"Etudiant.h"
+
+1735592266 d:\riheb\2eme année\tp c++\tp6\ex5tp6\include\contractuel.h
+	"Personne.h"
+	"Enseignant.h"
+	"Etudiant.h"
+	<iostream>
+

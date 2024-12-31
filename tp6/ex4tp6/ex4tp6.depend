@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1735595938 source:d:\riheb\2eme année\tp c++\tp6\ex4tp6\src\piece.cpp
+	"Piece.h"
+	<iostream>
+
+1735595918 d:\riheb\2eme année\tp c++\tp6\ex4tp6\include\piece.h
+	<iostream>
+	<string>
+
+1735596122 source:d:\riheb\2eme année\tp c++\tp6\ex4tp6\src\pion.cpp
+	"Pion.h"
+	"Piece.h"
+	<iostream>
+
+1735595641 d:\riheb\2eme année\tp c++\tp6\ex4tp6\include\pion.h
+	"Piece.h"
+	<iostream>
+
+1735596176 source:d:\riheb\2eme année\tp c++\tp6\ex4tp6\src\roi.cpp
+	"Roi.h"
+	"Piece.h"
+	<iostream>
+
+1735595718 d:\riheb\2eme année\tp c++\tp6\ex4tp6\include\roi.h
+	"Piece.h"
+	<iostream>
+

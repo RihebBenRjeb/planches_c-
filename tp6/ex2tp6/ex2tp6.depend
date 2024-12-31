@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1735577923 source:d:\riheb\2eme année\tp c++\tp6\ex2tp6\src\point.cpp
+	"Point.h"
+	<iostream>
+	<cmath>
+
+1735575835 d:\riheb\2eme année\tp c++\tp6\ex2tp6\include\point.h
+
+1735579937 source:d:\riheb\2eme année\tp c++\tp6\ex2tp6\src\robot.cpp
+	"Point.h"
+	<iostream>
+	<cmath>
+	"Robot.h"
+
+1735580199 d:\riheb\2eme année\tp c++\tp6\ex2tp6\include\robot.h
+	<iostream>
+	"point.h"
+
+1735580138 source:d:\riheb\2eme année\tp c++\tp6\ex2tp6\main.cpp
+	"RobotChasseur.h"
+	"Robot.h"
+	"Point.h"
+	"iostream"
+
+1735580209 d:\riheb\2eme année\tp c++\tp6\ex2tp6\include\robotchasseur.h
+	"robot.h"
+
+1735580091 source:d:\riheb\2eme année\tp c++\tp6\ex2tp6\src\robotchasseur.cpp
+	"RobotChasseur.h"
+	"Robot.h"
+	"Point.h"
+	"iostream"
+
