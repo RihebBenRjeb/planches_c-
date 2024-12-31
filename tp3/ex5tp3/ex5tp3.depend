@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1735407593 source:d:\riheb\2eme année\tp c++\tp3\ex5tp3\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<utility>
+
