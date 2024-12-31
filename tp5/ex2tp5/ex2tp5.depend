@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1735490613 source:d:\riheb\2eme année\tp c++\tp5\ex2tp5\src\vecteur3d.cpp
+	"vecteur3d.h"
+
+1735490620 d:\riheb\2eme année\tp c++\tp5\ex2tp5\include\vecteur3d.h
+	<iostream>
+	<cmath>
+

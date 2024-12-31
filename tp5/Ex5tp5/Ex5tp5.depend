@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1735510771 source:d:\riheb\2eme année\tp c++\tp5\ex5tp5\main.cpp
+	<iostream>
+	"Cercle.h"
+	"Point.h"
+
+1735510718 d:\riheb\2eme année\tp c++\tp5\ex5tp5\include\cercle.h
+	"Point.h"
+
+1735566673 d:\riheb\2eme année\tp c++\tp5\ex5tp5\include\point.h
+
+1735566427 source:d:\riheb\2eme année\tp c++\tp5\ex5tp5\src\point.cpp
+	"Point.h"
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1735484867 source:d:\riheb\2eme année\tp c++\tp5\ex1tp5\main.cpp
+	<iostream>
+	"Etudiant.h"
+
+1735491301 d:\riheb\2eme année\tp c++\tp5\ex1tp5\include\etudiant.h
+	<string>
+	<iostream>
+
+1735491254 source:d:\riheb\2eme année\tp c++\tp5\ex1tp5\src\etudiant.cpp
+	"Etudiant.h"
+	<iostream>
+
