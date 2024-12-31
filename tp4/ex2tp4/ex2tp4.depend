@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1735462143 source:d:\riheb\2eme année\tp c++\tp4\ex2tp4\main.cpp
+	<iostream>
+	"tab.h"
+	<vector>
+
+1735456868 d:\riheb\2eme année\tp c++\tp4\ex2tp4\tab.h
+	<iostream>
+	<vector>
+	<algorithm>
+
